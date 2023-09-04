@@ -5,7 +5,7 @@
     "dependencies": {
         "@block-wallet/explorer-link": "https://github.com/Block-Wallet/explorer-link",
         "@block-wallet/phishing-prevention": "git+https://github.com/block-wallet/phishing-prevention#4708461673825816104b8a6cf5260ecb29b75c61",
-        "@hookform/resolvers": "^2.9.3",
+        "@hookform/resolvers": "^2.9.11",
         "@tailwindcss/forms": "^0.5.2",
         "bfj": "^7.0.2",
         "classnames": "^2.2.6",
