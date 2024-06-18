@@ -22,7 +22,7 @@
         "eth-ens-namehash": "^2.0.8",
         "eth-keyring-controller": "^7.0.2",
         "ethereumjs-wallet": "^1.0.2",
-        "ethers": "^6.0.8",
+        "ethers": "^6.13.1",
         "lodash": "^4.17.21",
         "loglevel": "^1.8.1",
         "schema-validator": "git+https://github.com/block-wallet/schema-validator.git",
