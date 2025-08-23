@@ -20,7 +20,7 @@
         "compare-versions": "^6.0.0-rc.1",
         "eslint-webpack-plugin": "^4.0.0",
         "eth-ens-namehash": "^2.0.8",
-        "eth-keyring-controller": "^7.0.2",
+        "eth-keyring-controller": "^9.0.0",
         "ethereumjs-wallet": "^1.0.2",
         "ethers": "^6.0.8",
         "lodash": "^4.17.21",
